@@ -1,6 +1,8 @@
-# GCP CIS 1.0 Benchmark Inspec Profile
+# GCP CIS 1.1 Draft Benchmark Inspec Profile
 
 This repository holds the [Google Cloud Platform (GCP)](https://cloud.google.com/) [Center for Internet Security (CIS)](https://www.cisecurity.org) [version 1.0 Benchmark](https://www.cisecurity.org/benchmark/google_cloud_computing_platform/) [Inspec](https://www.inspec.io/) Profile.
+
+Need to rev this work to reflect the latest CIS 1.1 benchmark for GCP
 
 ## Required Disclaimer
 
